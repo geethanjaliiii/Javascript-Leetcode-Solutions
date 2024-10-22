@@ -3,18 +3,15 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-    if(x<0){
+
+    if(x<0 || (x%10===0 && x!=0)){
         return false
     }
-let str =x.toString().split("")
-let rev =x.toString().split("").reverse()
-console.log(str,rev)
-let is_pal=true
-for(let i=0;i<str.length;i++){
-    if(str[i]!=rev[i]){
-      is_pal=false
-      break
+    let rev=0
+    while(x>rev){
+        rev=rev*10+x%10
+        x=Math.floor(x/10)
     }
-   
-} return is_pal
+    return x===rev || x==Math.floor(rev/10)
+
 };
