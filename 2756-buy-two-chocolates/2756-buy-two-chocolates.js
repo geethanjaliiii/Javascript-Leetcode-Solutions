@@ -6,7 +6,8 @@
 var buyChoco = function (prices, money) {
     let spend = 0
     for (let i = 0; i < prices.length; i++) {
-        for (let j = i + 1; j < prices.length; j++) {
+        let j=i+1
+        while(j<prices.length){
             if (!spend && prices[i] + prices[j] <= money) {
                 spend = prices[i] + prices[j]
             }
@@ -14,8 +15,8 @@ var buyChoco = function (prices, money) {
                 spend=prices[i]+prices[j]
             }
 
-            }
-        
+            j++
+        }
     }
     return money - spend
 };
