@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
