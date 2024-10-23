@@ -7,7 +7,7 @@ var search = function(nums, target) {
  let low = 0
  let high = nums.length-1
  while(low<=high){
-    let mid=low+Math.floor((high-low)/2)
+    let mid=Math.floor((low+high)/2)
     if(nums[mid]===target){
         return mid
     }else if(nums[mid]<target){
