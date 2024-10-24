@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
