@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1899-count-items-matching-a-rule](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1899-count-items-matching-a-rule) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
