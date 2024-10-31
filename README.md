@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
