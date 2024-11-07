@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
