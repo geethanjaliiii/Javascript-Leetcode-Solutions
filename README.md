@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
