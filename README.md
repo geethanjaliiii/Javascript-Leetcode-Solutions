@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [3312-number-of-changing-keys](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3312-number-of-changing-keys) |
+| [3636-check-balanced-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
