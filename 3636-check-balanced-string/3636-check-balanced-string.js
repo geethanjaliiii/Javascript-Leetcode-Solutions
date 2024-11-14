@@ -3,15 +3,15 @@
  * @return {boolean}
  */
 var isBalanced = function(num) {
-  let arr=num.split("").map((i)=>Number(i));
+
   let e=0
   let o=0
-  for(let i=0;i<arr.length;i++){
+  for(let i=0;i<num.length;i++){
     if(i%2===0){
        
-          e+=arr[i]
+          e+=Number(num[i])
     }else{
-        o+=arr[i]
+        o+=Number(num[i])
     }
   }
   
