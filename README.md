@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1899-count-items-matching-a-rule](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1899-count-items-matching-a-rule) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
