@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1532-reformat-the-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1532-reformat-the-string) |
 | [1797-goal-parser-interpretation](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
