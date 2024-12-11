@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2756-buy-two-chocolates](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0078-subsets) |
 | [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
