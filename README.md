@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2630-alternating-digit-sum](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1806-count-of-matches-in-tournament](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2551-apply-operations-to-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Counting
 |  |
