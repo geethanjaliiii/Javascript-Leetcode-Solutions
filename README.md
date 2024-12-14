@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1532-reformat-the-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1532-reformat-the-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
