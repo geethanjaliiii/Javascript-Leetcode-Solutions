@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
