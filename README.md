@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1532-reformat-the-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1532-reformat-the-string) |
 | [1797-goal-parser-interpretation](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
+| [1880-largest-merge-of-two-strings](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1880-largest-merge-of-two-strings](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1880-largest-merge-of-two-strings](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [2756-buy-two-chocolates](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Matrix
 |  |
