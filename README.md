@@ -236,12 +236,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
