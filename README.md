@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -249,10 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
