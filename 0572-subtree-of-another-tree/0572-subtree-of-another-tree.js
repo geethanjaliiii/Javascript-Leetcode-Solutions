@@ -11,27 +11,22 @@
  * @param {TreeNode} subRoot
  * @return {boolean}
  */
-var isSubtree = function(root, subRoot) {
-    if(!root && !subRoot){
-        return true
-    }
-    if(!root || ! subRoot){
-        return false
-    }
+var isSubtree = function (root, subRoot) {
+    if (!root && !subRoot)  return true
+    
+    if (!root || !subRoot)  return false
+
     //find root of subtree in root
-    if( isIdentical(root,subRoot)) return true
+    if (isIdentical(root, subRoot)) return true
     
-    return  isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot)
-        
-    
-       
+    return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot)
 };
 
-var isIdentical=(t,s)=>{
-    if(!t && !s){
+var isIdentical = (t, s) => {
+    if (!t && !s) {
         return true
-    }else if(!t || !s){
+    } else if (!t || !s) {
         return false
     }
-return (t.val==s.val && isIdentical(t.left,s.left) && isIdentical(t.right,s.right))
+    return (t.val == s.val && isIdentical(t.left, s.left) && isIdentical(t.right, s.right))
 }
