@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1044-find-common-characters](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1532-reformat-the-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1532-reformat-the-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 | [1880-largest-merge-of-two-strings](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
