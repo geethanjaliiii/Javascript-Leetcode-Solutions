@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3312-number-of-changing-keys](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3312-number-of-changing-keys) |
 | [3636-check-balanced-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 ## Sorting
@@ -290,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
