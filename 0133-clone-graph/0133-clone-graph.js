@@ -16,10 +16,7 @@ var cloneGraph = function(node) {
     if(!node) return null
     //to keep track of already explored neighbouring nodes
     let clonedMap=new Map()
-   
-return dfs(node,clonedMap)
-};
-var dfs=(currentNode,clonedMap)=>{
+   var dfs=(currentNode)=>{
  //if we have already explored the node,just return it
  if(clonedMap.has(currentNode)){
     return clonedMap.get(currentNode)
@@ -28,7 +25,9 @@ var dfs=(currentNode,clonedMap)=>{
  let clone=new Node(currentNode.val)
  clonedMap.set(currentNode,clone)
  for(let neighbor of currentNode.neighbors){
-     clone.neighbors.push(dfs(neighbor,clonedMap))
+     clone.neighbors.push(dfs(neighbor))
  }
  return clone
 }
+return dfs(node)
+};
