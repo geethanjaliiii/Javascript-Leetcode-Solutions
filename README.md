@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 | [1880-largest-merge-of-two-strings](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
