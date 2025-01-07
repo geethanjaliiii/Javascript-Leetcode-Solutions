@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1899-count-items-matching-a-rule) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1044-find-common-characters](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1524-string-matching-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
