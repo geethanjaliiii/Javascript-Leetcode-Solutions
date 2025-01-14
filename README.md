@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2777-find-the-distinct-difference-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2777-find-the-distinct-difference-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2777-find-the-distinct-difference-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2777-find-the-distinct-difference-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
