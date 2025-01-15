@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2630-alternating-digit-sum](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
+| [2812-find-the-maximum-achievable-number](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
 |  |
