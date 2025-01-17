@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0952-word-subsets](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1044-find-common-characters) |
