@@ -20,17 +20,7 @@ let result=[]
          }
     }
    }
-   for(i=0;i<arr.length;i++){
-    let count=0
-    for(j=i+1;j<arr.length;j++){
-     if(arr[i]==arr[j]){
-        count++
-     }
-    }
-    if(count==0){
-      result.push(arr[i])
-    }
-   }
-   return  result
+   console.log([...new Set(arr)])
+ return [...new Set(arr)]
 
 };
