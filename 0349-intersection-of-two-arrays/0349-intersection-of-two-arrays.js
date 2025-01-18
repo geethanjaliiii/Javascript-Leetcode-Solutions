@@ -11,16 +11,8 @@ var intersection = function(nums1, nums2) {
 //     }
 //   }
 //   return [...new Set(arr)]
-let arr=[]
-let result=[]
-   for(i=0;i<nums1.length;i++){
-    for(j=0;j<nums2.length;j++){
-         if(nums1[i]==nums2[j]){
-            arr.push(nums1[i])
-         }
-    }
-   }
-   console.log([...new Set(arr)])
- return [...new Set(arr)]
+let set1=new Set(nums1)
+let set2=new Set(nums2)
+ return [...new Set([...set1].filter(num=>set2.has(num)))]
 
 };
