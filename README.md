@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0952-word-subsets](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0861-flipping-an-image](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1880-largest-merge-of-two-strings](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1880-largest-merge-of-two-strings) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0861-flipping-an-image](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1806-count-of-matches-in-tournament](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -205,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0078-subsets) |
+| [0861-flipping-an-image](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
